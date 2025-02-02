@@ -1,5 +1,6 @@
 # DeepBase
 This repository provides the data generated in the following paper: 
+
 Ghaneei, P., Moradkhani, H. DeepBase: A Deep Learning-based Daily Baseflow Dataset across the United States. Sci Data 12, 25 (2025). https://doi.org/10.1038/s41597-025-04389-y
 
 The full version of dataset is available at ‘DeepBase’ repository [10.6084/m9.figshare.28079573].
